@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+$bcgcolor: #f00;
+$textcolor: green;
+body{
+	background-color: $bcgcolor;
+}
+
+h1{
+	color: $textcolor;
+}

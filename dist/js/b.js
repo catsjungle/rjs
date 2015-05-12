@@ -1,0 +1,1 @@
+define("a",[],function(){function e(e,t){return e+t}return e}),define("b",["a"],function(e){function r(e,t){return e*t}var t=3,n=e(t,t),i={num:e(t,t),fun:r};return i});
